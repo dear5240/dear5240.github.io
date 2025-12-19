@@ -1,0 +1,90 @@
+/* 颜色变量 */
+:root {
+  --sidebar-bg-color: #e64545; /* 定义一个名为 --sidebar-bg-color 的变量，值为 #e43636 */
+
+}
+
+/* 让左侧目录区域为红色背景，但保持搜索框为白色 */
+.sidebar {
+	background: var(--sidebar-bg-color); /* 红色背景，可按需调整 */
+	min-height: 100vh;
+	box-sizing: border-box;
+	padding-top: 48px; /* 下移搜索框，增加顶部间距 */
+	border-top-left-radius: 10px; /* 左上角圆润 */
+	border-bottom-left-radius: 10px; /* 左下角圆润 */
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+/* 搜索容器保持透明，让输入框单独为白色 */
+.sidebar .search {
+	background: transparent;
+	margin: 6px 12px 10px 12px; /* 向下移动一点，并在左右保留间距 */
+	padding-bottom: 8px;
+}
+
+.sidebar .search input[type="search"],
+.sidebar .search input[type="text"] {
+	background: #ffffff; /* 搜索框为白色 */
+	border-radius: 13px; /* 更圆润 */
+	border: 1px solid rgba(0,0,0,0.12);
+	padding: 10px 12px;
+	width: 100%;
+	box-sizing: border-box;
+	box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+/* 确保侧边标题/链接在红色背景下可读（可根据喜好调整颜色） */
+.sidebar a,
+.sidebar h1,
+.sidebar h2,
+.sidebar h3,
+.sidebar h4,
+.sidebar .page-nav a,
+.sidebar .sidebar-nav a,
+.sidebar .sidebar-nav li,
+.sidebar .sidebar-nav li a {
+	color: #fff !important; /* 将侧边标题和链接设为白色，以提高对比度 */
+}
+
+/* 如果需要将当前激活项突出显示，保留原样或自定义 */
+.sidebar .sidebar-nav li a.active {
+	color: #00e676;
+}
+
+/* 调整“关闭目录/切换侧栏”按钮的尺寸与样式，变小且更圆润 */
+.sidebar-toggle,
+.sidebar .sidebar-toggle,
+.sidebar-toggle-btn,
+.menu-toggle,
+.docsify-sidebar-toggle,
+.sidebar .menu-toggle,
+#sidebar-toggle {
+	width: 36px !important;
+	height: 36px !important;
+	padding: 4px !important;
+	font-size: 14px !important;
+	border-radius: 8px !important;
+	display: inline-flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+}
+
+.sidebar-toggle svg,
+.sidebar-toggle .icon,
+.menu-toggle svg,
+.docsify-sidebar-toggle svg {
+	width: 16px !important;
+	height: 16px !important;
+}
+
+/* 如果按钮有外框（例如主题自带的边框），缩小边框与阴影 */
+.sidebar-toggle,
+.menu-toggle {
+	border: 1px solid rgba(255,255,255,0.12) !important;
+	background: rgba(255, 255, 255, 0.11) !important;
+	box-shadow: none !important;
+}
+
+
+
