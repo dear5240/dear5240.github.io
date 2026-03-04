@@ -6,7 +6,11 @@
 
 - SDK相关视频教程请戳：[云信官方哔哩哔哩](https://www.bilibili.com/video/BV1yQ4y1s7QW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4f610287abac02352ec809b82cc32fd2)
 
-- 杰理技术交流兴趣群(QQ 群号: 709159759)
+- BLE开源交流QQ群：661618204
+
+- wifi开源交流QQ群：593243414
+
+- 蓝牙与音频开源交流QQ群：764468449
 
 - 公司: 深圳市云信通讯技术有限公司
 
