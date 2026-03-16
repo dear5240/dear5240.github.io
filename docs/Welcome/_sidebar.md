@@ -3,5 +3,4 @@
 * [3. 选型手册](docs/Welcome/3.md)
 * [4. 硬件设计](docs/Welcome/4.md)
 * [5. 测试Demo](docs/Welcome/5.md)
-* [6. 网址导航](docs/Welcome/6.md)
-* [7. 生产与测试](docs/Welcome/7.md)
+* [6. 生产与测试](docs/Welcome/6.md)

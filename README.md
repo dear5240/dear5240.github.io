@@ -1,10 +1,12 @@
-- 芯片相关资料请戳: [云信官方网站](http://www.yunthinker.com/)
+**【相关资料】**
 
-- SDK 相关资料下载: [云信官方代码仓库](https://gitcode.com/yunthinker)
+- 芯片相关资料: [云信官方网站](http://www.yunthinker.com/)
 
-- 芯片样品与相关工具购买请戳：[云信官方淘宝店](https://yunthinker22.taobao.com)
+- 芯片工具购买: [云信官方淘宝店](https://yunthinker22.taobao.com)
 
-- SDK相关视频教程请戳：[云信官方哔哩哔哩](https://www.bilibili.com/video/BV1yQ4y1s7QW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4f610287abac02352ec809b82cc32fd2)
+- SDK相关资料: [云信官方代码仓库](https://gitcode.com/yunthinker)
+
+- 视频相关教程: [云信官方哔哩哔哩](https://www.bilibili.com/video/BV1yQ4y1s7QW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4f610287abac02352ec809b82cc32fd2)
 
 - BLE开源交流QQ群：661618204
 
@@ -12,10 +14,23 @@
 
 - 蓝牙与音频开源交流QQ群：764468449
 
-- 公司: 深圳市云信通讯技术有限公司
+<br>
 
-- 商务电话: 0755-82922363
+**【商务合作】**
 
-- 邮箱: sales@yunthinker.com
+- 电    话：0755-82922363
+- QQ咨询：371116160
+- E-MAIL：sales@yunthinker.com
 
-- 地址: 广东省深圳市龙华区观湖街道观乐路5号多彩科创园B栋8楼801
+- 官    网：http://www.yunthinker.com
+- 公    司:  深圳市云信通讯技术有限公司
+
+- 地    址：深圳市龙华区观湖街道观乐路5号多彩科创园B座801
+
+<br>
+
+**【深圳市云信通讯技术有限公司】**
+
+- yunThinker云信，作为JL杰理芯片一级代理商，主营杰理蓝牙&WIFI、语音产品线，专注于蓝牙&WIFI与语音领域技术与芯片开发。
+
+- 本分，奋进，期待与您合作！
