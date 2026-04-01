@@ -8,18 +8,18 @@
 
 - 视频相关教程: [云信官方哔哩哔哩](https://www.bilibili.com/video/BV1yQ4y1s7QW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4f610287abac02352ec809b82cc32fd2)
 
-- BLE开源交流QQ群：661618204
+- BLE开源交流QQ群：**661618204**
 
-- wifi开源交流QQ群：593243414
+- wifi开源交流QQ群：**593243414**
 
-- 蓝牙与音频开源交流QQ群：764468449
+- 蓝牙与音频开源交流QQ群：**764468449**
 
 <br>
 
 **【商务合作】**
 
-- 电    话：0755-82922363
-- QQ咨询：371116160
+- 电    话：**0755-82922363**
+- QQ咨询：**371116160**
 - E-MAIL：sales@yunthinker.com
 
 - 官    网：http://www.yunthinker.com

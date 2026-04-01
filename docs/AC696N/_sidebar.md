@@ -48,3 +48,5 @@
 - [10. 新Tools的音效调试使用](docs/AC696N/AC696N_3_10.md)
 
 - [11. 调音指南](docs/AC696N/AC696N_3_11.md)
+
+- **[FAQ](docs/AC696N/AC696N_4_1.md)**
