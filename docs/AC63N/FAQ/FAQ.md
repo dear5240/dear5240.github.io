@@ -1,5 +1,7 @@
 # FAQ
 
+[常见问题答疑](https://ecnuhbfhvn9e.feishu.cn/wiki/APCJwqO5Fic5gwkkXmDcjn8Gngb?from=from_copylink)
+
 ## 1. 关于低功耗唤醒问题
 
 **1. shutof**
