@@ -8,7 +8,7 @@
 
 - 视频相关教程: [云信官方哔哩哔哩](https://www.bilibili.com/video/BV1yQ4y1s7QW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4f610287abac02352ec809b82cc32fd2)
 
-- 开发常见问题: [云信官方知识库]([‬﻿‍⁠‌﻿⁠‌‬﻿⁠‍‍‍‍‬‬⁠‬﻿‬﻿‬﻿常见问题汇总 - 飞书云文档](https://kumx4uexcl.feishu.cn/wiki/WC8owF3mzipGr5kAiSkcgxjxnNg?fromScene=spaceOverview))
+- 开发常见问题: [云信官方知识库](https://kumx4uexcl.feishu.cn/wiki/WC8owF3mzipGr5kAiSkcgxjxnNg?fromScene=spaceOverview)
 
 - BLE开源交流QQ群：**661618204**
 
