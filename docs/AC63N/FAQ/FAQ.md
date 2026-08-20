@@ -1,6 +1,6 @@
 # FAQ
 
-[常见问题答疑](https://ecnuhbfhvn9e.feishu.cn/wiki/APCJwqO5Fic5gwkkXmDcjn8Gngb?from=from_copylink)
+[常见问题答疑](https://yunthinker.feishu.cn/wiki/H2PFwrKC7i2k4Pk5ptdcitn8nmd)
 
 ## 1. 关于低功耗唤醒问题
 
